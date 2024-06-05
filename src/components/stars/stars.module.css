@@ -1,0 +1,4 @@
+.stars-container {
+    display: flex;
+    list-style: none;
+}
